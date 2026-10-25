@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DataStru.c461b8b9\\x64\\Debug\\clsQueue.obj",
+            "outputs": [
+                "DataStru.c461b8b9\\x64\\Debug\\clsQueue.h.obj.dt.module.json",
+                "DataStru.c461b8b9\\x64\\Debug\\clsQueue.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

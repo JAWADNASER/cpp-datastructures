@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "DataStru.c461b8b9\\x64\\Debug\\clsDynamicArray.obj",
+            "outputs": [
+                "DataStru.c461b8b9\\x64\\Debug\\clsDynamicArray.h.obj.dt.module.json",
+                "DataStru.c461b8b9\\x64\\Debug\\clsDynamicArray.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
